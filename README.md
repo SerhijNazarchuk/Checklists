@@ -1,1 +1,1 @@
-# Checklists
+#### This repository contains checklists that are not trade secrets and are allowed for public demonstration
